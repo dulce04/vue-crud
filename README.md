@@ -2,7 +2,7 @@
 
 ## 주소
 
-https://brilliant-chaja-5f1ff8.netlify.app/
+https://vue-crud-dahyun.netlify.app/
 
 ## 기능
 - CRUD
